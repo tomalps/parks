@@ -1,1 +1,1 @@
-# parks
+Python class for solving "Parks" puzzles using mixed integer programming.
